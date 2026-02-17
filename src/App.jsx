@@ -39,3 +39,9 @@ function App() {
 }
 
 export default App
+
+
+
+
+git remote remove origin
+git remote add origin https://github.com/WVMN7/dars6.react.push.git
