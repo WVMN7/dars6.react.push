@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(98, 132, 133);
+}
+input{
+  background-color: white;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border: none;
+  height: 50px;
+  width: 500px;
+  outline: none;
+  margin-left: 38%;
+  margin-top: 20%;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+button{
+  margin-left: 42%;
+  height: 50px;
+  width: 400px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+p{
+  font-size: 40px;
+  text-align: center;
+  font-weight: 700;
+  font-family: sans-serif;
+}
